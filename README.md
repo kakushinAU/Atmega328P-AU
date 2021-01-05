@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Basic schematics and breadboard layout for burning a bootloader and uploading Arduino sketches to an Atmega328P-AU SMD microcontroller. A video showing a full tutorial on burning a bootloader and uploading a simple blink sketch is shown at https://youtu.be/xxxxxx
+Basic schematics and breadboard layout for burning a bootloader and uploading Arduino sketches to an Atmega328P-AU SMD microcontroller. A video showing a full tutorial on burning a bootloader and uploading a simple blink sketch is shown at https://youtu.be/VVK0aYcrnQc
 
 This tutorial allows electronics designers and hobbiests to make the transition from using an Arduino Nano development board to burning the SMD chip directly for use in printed circuit board prototypes.
 
